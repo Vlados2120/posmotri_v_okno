@@ -324,10 +324,18 @@ button:focus-visible {
   outline: 1px solid #fff;
 }
 
+.content__card-link:focus{
+  outline: 0;
+}
+
 .more-button:hover {
   text-decoration: none;
 }
 
 .search-form__label:hover .search-form__label-text {
   text-decoration: underline;
+}
+
+.search-form__textfield:focus{
+  outline: 0;
 }
