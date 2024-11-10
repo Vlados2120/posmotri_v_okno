@@ -62,7 +62,6 @@ html {
   width: 399px;
   height: 298px;
   position: relative;
-  scrollbar-width: none;
 }
 
 .content__details {
