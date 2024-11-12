@@ -59,9 +59,9 @@ html {
 
 .content__list {
   overflow-y: auto;
-  width: 399px;
   height: 298px;
   position: relative;
+  width: 409px;
 }
 
 .content__details {
